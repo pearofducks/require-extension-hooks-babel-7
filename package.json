@@ -1,0 +1,24 @@
+{
+  "name": "@_pearofducks/require-extension-hooks-babel-7",
+  "version": "0.7.1",
+  "description": "a fork of require-extension-hooks-babel without deps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pearofducks/require-extension-hooks-babel-7.git"
+  },
+  "author": "Jack Ellis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pearofducks/require-extension-hooks-babel-7/issues"
+  },
+  "homepage": "https://github.com/pearofducks/require-extension-hooks-babel-7#readme",
+  "peerDependencies": {
+    "require-extension-hooks": "0.x",
+    "@babel/core": "^7.x.x",
+    "@babel/preset-env": "^7.x.x"
+  }
+}
