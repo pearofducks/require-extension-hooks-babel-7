@@ -1,6 +1,6 @@
 {
   "name": "require-extension-hooks-babel-7",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "description": "a fork of require-extension-hooks-babel",
   "main": "index.js",
   "scripts": {
