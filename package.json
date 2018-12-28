@@ -1,6 +1,6 @@
 {
   "name": "require-extension-hooks-babel-7",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "description": "a fork of require-extension-hooks-babel",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "url": "https://github.com/pearofducks/require-extension-hooks-babel-7/issues"
   },
   "homepage": "https://github.com/pearofducks/require-extension-hooks-babel-7#readme",
-  "dependencies": {
+  "peerDependencies": {
     "require-extension-hooks": "0.x",
     "@babel/core": "^7.x.x",
     "@babel/preset-env": "^7.x.x"
