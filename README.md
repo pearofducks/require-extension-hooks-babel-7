@@ -2,6 +2,11 @@
 
 Using require-extension-hooks you can transpile ES6/7/.. code to run in node. Although node supports 99.999% of ES6 features there is one major omission: export/import syntax.
 
+## On this fork
+
+Differences from upstream:
+- Doesn't have any 'exclude' functionality, as this was being done twice anyhow
+
 ## Installation  
 `npm install require-extension-hooks require-extension-hooks-babel-7 --save-dev`  
 
